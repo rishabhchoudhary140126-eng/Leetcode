@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0283-move-zeroes) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Bit Manipulation
 |  |
