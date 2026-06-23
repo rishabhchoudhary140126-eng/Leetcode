@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/1901-find-a-peak-element-ii) |
