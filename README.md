@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0509-fibonacci-number) |
+| [2485-find-the-pivot-integer](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0509-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
