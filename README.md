@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -57,4 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
