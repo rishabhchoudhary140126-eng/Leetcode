@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0509-fibonacci-number) |
 | [2485-find-the-pivot-integer](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/2485-find-the-pivot-integer) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sorting
 |  |
 | ------- |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/2485-find-the-pivot-integer) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
