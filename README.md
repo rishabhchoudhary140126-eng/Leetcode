@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -166,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0042-trapping-rain-water) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
