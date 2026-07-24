@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1572-matrix-diagonal-sum](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1572-matrix-diagonal-sum](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Hash Table
 |  |
