@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool check(string s, int low, int high){
+    bool check(const string &s, int low, int high){
 
         while(low<high){
             if(s[low] == s[high]){
