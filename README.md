@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0645-set-mismatch) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Sliding Window
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
