@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1657-determine-if-two-strings-are-close](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 ## String
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1657-determine-if-two-strings-are-close](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 ## Sliding Window
 |  |
 | ------- |
@@ -143,11 +145,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1657-determine-if-two-strings-are-close](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1657-determine-if-two-strings-are-close](https://github.com/rishabhchoudhary140126-eng/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 ## Simulation
 |  |
 | ------- |
